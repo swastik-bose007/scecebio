@@ -23,6 +23,12 @@ function twitter() {
 function whatsapp() {
     window.location = "https://chat.whatsapp.com/KPtqPU0aoLVEPdLxjXKpNT"
 }
+function youtube() {
+    window.location = "https://www.youtube.com/channel/UCi2UTCTQnxo5XXkG5w8OUNQ"
+}
+function github() {
+    window.location = "https://github.com/scEce-Tech"
+}
 
 
 const newyear = new Date().getFullYear();
