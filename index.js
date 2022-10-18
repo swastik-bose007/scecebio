@@ -27,7 +27,7 @@ function youtube() {
     window.location = "https://www.youtube.com/channel/UCi2UTCTQnxo5XXkG5w8OUNQ"
 }
 function github() {
-    window.location = "https://github.com/scEce-Tech"
+    window.location = "https://github.com/scEce-Dev"
 }
 
 
